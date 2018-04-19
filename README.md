@@ -1,2 +1,8 @@
 # flutter_cherryblossom
-基于Flutter的账号本
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
