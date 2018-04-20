@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_cherryblossom/detail.dart';
+//import 'package:flutter_cherryblossom/detail.dart';
+import 'package:flutter_cherryblossom/login.dart';
+
 
 void main() => runApp(new MyApp());
 
@@ -22,7 +24,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
 //      home: new MyHomePage(title: 'Flutter Demo Home Page'),
-      home: new ContactsDemo(),
+//      home: new ContactsDemo(),
+      home: new LoginPage(),
     );
   }
 }
